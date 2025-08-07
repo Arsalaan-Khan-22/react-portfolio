@@ -36,6 +36,3 @@ A personal portfolio website built with React. It features:
 
 - **Challenge**: Making design fully responsive  
   **Solution**: Used custom CSS and media queries to fine-tune mobile layouts
-
-## 📱 Contact
-- Email: arsalaan@example.com
