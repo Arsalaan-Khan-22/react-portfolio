@@ -4,7 +4,7 @@
 🔗 https://arsalaankhanportfolio.netlify.app/
 
 ## 📁 Repository
-🔗 https://github.com/arsalaankhan/react-portfolio
+🔗 https://github.com/Arsalaan-Khan-22/react-portfolio
 
 ## 📄 About
 A personal portfolio website built with React. It features:
